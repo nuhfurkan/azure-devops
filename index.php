@@ -1,3 +1,1 @@
-<echo>
-    "hello world!"
-</echo>
+echo "hello world"
